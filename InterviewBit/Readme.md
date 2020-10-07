@@ -1,3 +1,3 @@
-First Missing Integer
-Max Sum Contiguous Subarray
-Merge Intervals
+1. First Missing Integer
+2. Max Sum Contiguous Subarray
+3. Merge Intervals
